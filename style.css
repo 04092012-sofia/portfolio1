@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    background-color:rgb(238, 228, 230); 
+}
+
+nav a{
+    border: 2px groove rgb(216, 140, 154);
+    color: rgb(231, 78, 104);
+    padding: 3px;
+}
+
+nav{
+    display:flex;
+    justify-content: space-around;
+}
+
+
+.link-header{
+    color: rgb(231, 78, 104);
+    border: 2px groove rgb(231, 78, 104); 
+    padding: 3px;
+}
